@@ -1,0 +1,10 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(≈€≥•8Œæ€ÏÀ0
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(≠â∏ö8œæ€ÏÀ0
+Y
+java:S4973,"<Strings and Boxed types should be compared using "equals()".(≠¨ïú8œæ€ÏÀ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˙ó±ˆ8Ÿæ€ÏÀ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú´«Ã8Ÿæ€ÏÀ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ú·Ø¯ˇˇˇˇ8⁄æ€ÏÀ0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÁËø≥8⁄æ€ÏÀ0
